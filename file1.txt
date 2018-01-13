@@ -1,1 +1,2 @@
-Updated text on master branch.
+
+This text is for merge test branch
